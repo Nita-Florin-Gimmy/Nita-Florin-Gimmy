@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on a big project
 - 📫 How to reach me ... nita.florin58@gmail.com
 
-<!---
-Nita-Florin-Gimmy/Nita-Florin-Gimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Languages and Tools:
+
+<img src="https://www.kite.com/wp-content/uploads/2020/10/ic_javascript_m.png">
+<img src="https://www.kite.com/wp-content/uploads/2020/10/ic_htmlcss_m.png">
+<img src="https://www.kite.com/wp-content/uploads/2020/10/1200px-Visual_Studio_Code_1.18_icon.svg.png">
+<img src="https://www.php.net/images/logos/new-php-logo.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png">
+<img src="https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg">
