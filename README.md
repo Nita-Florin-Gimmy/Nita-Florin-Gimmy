@@ -9,7 +9,6 @@
 <br />
 
 <img src="https://imgur.com/N3HZKXY.png"><img src="https://imgur.com/UdTxadI.png">
-<img src="https://imgur.com/UdTxadI.png">
 <img src="https://imgur.com/kuNesV8.png">
 <img src="https://imgur.com/OX1tH5Y.png">
 <img src="https://imgur.com/Hrp5tsW.png">
